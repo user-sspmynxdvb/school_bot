@@ -4,4 +4,4 @@
 
 **This project is aimed at developing and implementing a multifunctional telegram bot that will become a universal tool for supporting communication and training of participants in the educational process. The bot will provide convenient access to class schedules, contact details of teachers, and other information about the educational institution. In addition, the bot will help students and teachers to exchange messages, provide learning assistance, and access various academic resources. By ensuring ease of interaction and accessibility of functions, the project will help improve the efficiency of the educational process. The implementation of this project will create a convenient and modern learning environment for participants in the educational process.**
 
-<img width="7808" alt="Borysfen_dp_bot" src="https://github.com/user-attachments/assets/f58b63e8-c412-4d1e-a8c6-606eb6fb9ba8">
+<img width="7808" alt="Borysfen_dp_bot" src="https://github.com/user-attachments/assets/1a35b812-cca4-4786-b30d-1fab2db1e3d4">
